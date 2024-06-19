@@ -26,6 +26,7 @@ SockFlood is a command-line tool designed for network stress testing and potenti
 
 5. **Platform Compatibility:**
    - **Cross-Platform Support:** SockFlood is designed to run on multiple platforms, including Windows (via `cls` and `title` commands for terminal management) and Unix-like systems (via `clear` command).
+![image](https://github.com/LiquidX-Team/Liquid-X-DDoS/assets/173256108/ead7d614-e8fb-488e-9a9c-432ba94ec007)
 
 **Use Cases:**
 
